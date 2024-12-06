@@ -1,4 +1,4 @@
-Here’s a detailed **README** file tailored for a **Movie Website Design** project built using **HTML, CSS, SCSS/SASS, and JavaScript**:
+
 
 ---
 

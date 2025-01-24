@@ -19,11 +19,6 @@ A visually appealing, modern, and fully responsive movie website designed using 
 
 ---
 
-### Screenshots  
-> *Include screenshots or GIFs of the website showcasing key features like movie cards, navigation, and trailer popups.*
-
----
-
 ### Technologies Used  
 - **HTML5**: For semantic structure and accessibility.  
 - **CSS3**: For core styling and animations.  
